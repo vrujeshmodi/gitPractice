@@ -21,16 +21,16 @@ I'm a full stack developer...
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  cd gitPractice 
 ```
     
+Install pod
+
+ ```bash
+  pod Install
+```     
+  
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
