@@ -1,6 +1,0 @@
-framework module Pods_gitDemo_gitDemoUITests {
-  umbrella header "Pods-gitDemo-gitDemoUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
